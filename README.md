@@ -1,4 +1,4 @@
-# how-to-delete-local_lvm-proxmox
+# # delete local LVM in PVE
 
 lvremove /dev/pve/data
 <br>
